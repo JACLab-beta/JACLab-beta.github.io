@@ -7,14 +7,17 @@ This project it is a personal tool navigation, content all by and collection of 
 
 JackHCC's Toolkit 👉 [nav.creativecc.cn](https://nav.creativecc.cn)
 
+✔ If you want to customize your own navigation, please call JackHCC to add a Custom Page!
 
 
 ### Todo
-
-- [ ] Search Bar
+- [x] Basic Pages
+- [x] Search Bar
+- [x] Statistics
+- [ ] Custom Pages
 - [ ] Personal Profile
 - [ ] Personal Life Record 
-- [ ] Some interesting apps
+- [ ] Some Interesting Apps
 
 ### Contact
 
