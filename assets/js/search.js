@@ -3,9 +3,10 @@ const sBaidu = document.getElementById("baidu");
 const sGoogle = document.getElementById("google");
 const sBing = document.getElementById("bing");
 const sGitHub = document.getElementById("github");
-const sGitee = document.getElementById("gitee");
+const sScholar = document.getElementById("scholar");
 const sZhihu = document.getElementById('zhihu');
-const sJd = document.getElementById('jd');
+const sPaper = document.getElementById('paperswithcode');
+const sPan = document.getElementById('wangpan');
 const sTaoBao = document.getElementById('taobao');
 const sYouTube = document.getElementById('youtube')
 const sBilibili = document.getElementById("bilibili");
@@ -98,10 +99,10 @@ sGitHub.onclick= function () {
 }
 
 //Gitee
-sGitee.onclick = function () {
-    p='https://gitee.com/search?utf8=✓&search=';
+sScholar.onclick = function () {
+    p='https://scholar.google.com/scholar?q=';
     n='';
-    s='https://gitee.com/'
+    s='https://scholar.google.com/'
     doAction(p,n,s);
 }
 
@@ -113,10 +114,10 @@ sZhihu.onclick= function () {
     doAction(p,n,s);
 }
 //jd
-sJd.onclick = function () {
-    p='https://search.jd.com/Search?enc=utf-8&keyword=';
+sPaper.onclick = function () {
+    p='https://paperswithcode.com/search?q=';
     n='';
-    s='https://search.jd.com/'
+    s='https://paperswithcode.com/'
     doAction(p,n,s);
 }
 //TaoBao
@@ -124,6 +125,13 @@ sTaoBao.onclick =function () {
     p='https://s.taobao.com/search?q=';
     n='&taoke_type=1';
     s='https://s.taobao.com/';
+    doAction(p,n,s);
+}
+//WangPan
+sPan.onclick =function () {
+    p='https://www.dashengpan.com/#/main/search?keyword=';
+    n='';
+    s='https://www.dashengpan.com/';
     doAction(p,n,s);
 }
 
