@@ -19,6 +19,9 @@ JackHCC's Toolkit 👉 [nav.creativecc.cn](https://nav.creativecc.cn)
 - [ ] Personal Life Record 
 - [ ] Some Interesting Apps
 
+### Statistics
+![](https://repobeats.axiom.co/api/embed/45a4ccf7fb54f999964d8d7b66a719a7b9dddaae.svg "Repobeats analytics image")
+
 ### Contact
 
 If you have any questions or good ideas, please contact: jackcc0701@163.com
