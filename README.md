@@ -14,6 +14,7 @@ JackHCC's Toolkit 👉 [nav.creativecc.cn](https://nav.creativecc.cn)
 - [x] Basic Pages
 - [x] Search Bar
 - [x] Statistics
+- [x] Chatbot   
 - [ ] Custom Pages
 - [ ] Personal Profile
 - [ ] Personal Life Record 
@@ -26,5 +27,6 @@ JackHCC's Toolkit 👉 [nav.creativecc.cn](https://nav.creativecc.cn)
 
 If you have any questions or good ideas, please contact: jackcc0701@163.com
 
-### Display
-![](./assets/images/nav.creativecc.cn_cn_index.html.png)
+[comment]: <> (### Display)
+
+[comment]: <> (![]&#40;./assets/images/nav.creativecc.cn_cn_index.html.png&#41;)
