@@ -4,20 +4,20 @@
 var typeOs = function () {
     var platform = navigator.platform;
     console.log(platform.indexOf("Linux"));
-    if (platform.indexOf("Linux")>=0){
+    if (platform.indexOf("Linux") >= 0) {
         return "linux";
     }
 }
 
-var spHolder= function(senentces,options) {
+var spHolder = function (senentces, options) {
     superplaceholder({
         el: document.querySelector('#search'),
         sentences: senentces,
         options: options
     });
 }
-if (typeOs()==='linux'){
-    var options={
+if (typeOs() === 'linux') {
+    var options = {
         // delay between letters (in milliseconds)
         letterDelay: 0, // milliseconds
         // delay between sentences (in milliseconds)
@@ -27,12 +27,12 @@ if (typeOs()==='linux'){
         loop: false,
         cursor: ''
     };
-    var senentces =['搜点啥呢...填好了要点下面按钮👇'];
+    var senentces = ['搜点啥呢...填好了要点下面按钮👇'];
 
-    spHolder(senentces,options);
+    spHolder(senentces, options);
 
-}else {
-    var options={
+} else {
+    var options = {
         // delay between letters (in milliseconds)
         letterDelay: 100, // milliseconds
         // delay between sentences (in milliseconds)
@@ -48,9 +48,9 @@ if (typeOs()==='linux'){
         // String to show as cursor
         cursor: ''
     };
-    var senentces =['搜点啥呢...填好了要点下面按钮👇~', '当然按回车也可以~', '喜欢的话欢迎收藏和添加首页~', 'Everything you need here~'];
+    var senentces = ['搜点啥呢...填好了要点下面按钮👇~', '当然按回车也可以~', '喜欢的话欢迎收藏和添加首页~', 'Everything you need here~'];
 
-    spHolder(senentces,options);
+    spHolder(senentces, options);
 
 }
 
