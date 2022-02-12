@@ -98,17 +98,17 @@ document.onkeydown = function (e) { // 回车提交表单
         window.open(s);
     }
 
-    else if (code == 112 && e.shiftKey) { // Shift + F2, 阿里云
+    else if (code == 113 && e.shiftKey) { // Shift + F2, 阿里云
         s = "https://account.aliyun.com/login/qr_login.htm";
         window.open(s);
     }
 
-    else if (code == 112 && e.shiftKey) { // Shift + F3, Ucloud
+    else if (code == 114 && e.shiftKey) { // Shift + F3, Ucloud
         s = "https://passport.ucloud.cn/login";
         window.open(s);
     }
 
-    else if (code == 112 && e.shiftKey) { // Shift + F4, 华为云
+    else if (code == 115 && e.shiftKey) { // Shift + F4, 华为云
         s = "https://auth.huaweicloud.com/authui/login.html#/login";
         window.open(s);
     }
