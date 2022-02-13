@@ -16,10 +16,10 @@ JackHCC's Toolkit 👉 [nav.creativecc.cn](https://nav.creativecc.cn)
 - [x] Statistics
 - [x] Chatbot
 - [x] Shortcut key
-- [ ] Custom Pages
+- [x] Custom Pages
 - [ ] Personal Profile
 - [ ] Personal Life Record 
-- [ ] Some Interesting Apps
+- [ ] Music Player
 
 ### Statistics
 ![](https://repobeats.axiom.co/api/embed/45a4ccf7fb54f999964d8d7b66a719a7b9dddaae.svg "Repobeats analytics image")
