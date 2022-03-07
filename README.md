@@ -17,7 +17,7 @@ JackHCC's Toolkit 👉 [nav.creativecc.cn](https://nav.creativecc.cn)
 - [x] Chatbot
 - [x] Shortcut key
 - [x] Custom Pages
-- [ ] Personal Profile
+- [x] Personal Profile
 - [ ] Personal Life Record 
 - [ ] Music Player
 
